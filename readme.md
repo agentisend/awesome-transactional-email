@@ -109,6 +109,7 @@ This list is maintained by AgentiSend, which is listed under Email APIs. Every o
 - [Mailgun MCP](https://github.com/mailgun/mailgun-mcp-server) - MCP server for the Mailgun API.
 - [Postmark MCP](https://github.com/ActiveCampaign/postmark-mcp) - Postmark's MCP server for sending, templates and message search.
 - [Resend MCP](https://github.com/resend/resend-mcp) - Resend's MCP server for sending email and working with the Resend API.
+- [Scribase Mail MCP](https://github.com/caelum0x/scribase-mail-studio/tree/main/packages/mcp-server) - MCP server for the Resend-compatible Scribase Mail API, over stdio or streamable HTTP.
 
 ## AI Agent Guardrails
 
