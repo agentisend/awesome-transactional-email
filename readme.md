@@ -59,6 +59,7 @@ This list is maintained by AgentiSend, which is listed under Email APIs. Every o
 
 - [Plunk](https://github.com/useplunk/plunk) - Open-source email platform for transactional and marketing email, also sold as a hosted service.
 - [Postal](https://github.com/postalserver/postal) - Mail delivery platform for incoming and outgoing email with an HTTP API.
+- [Scribase Mail](https://github.com/caelum0x/scribase-mail-studio) - AGPL-3.0 email platform with a Resend-compatible API, SMTP relay, campaigns and webhooks, self-hostable or hosted.
 
 ## Testing and Development
 
